@@ -1,0 +1,7 @@
+echo "# Predictive_Analytics_Credit_Risks_Loans_Defaults" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/temiloluwaalonge-Fave/Predictive_Analytics_Credit_Risks_Loans_Defaults.git
+git push -u origin main
